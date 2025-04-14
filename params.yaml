@@ -1,0 +1,3 @@
+preprocess:
+  input: raw/train.csv
+  output: data/processed/train.parquet
